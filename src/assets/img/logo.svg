@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 155 41" style="enable-background:new 0 0 155 41;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:url(#SVGID_1_);}
+</style>
+<path class="st0" d="M3.9-57.4v39.2H26v-7.9H12.3v-31.3H3.9z"/>
+<path class="st0" d="M67.9-37.8c0-11.3-9.1-20.3-20.5-20.3s-20.5,9-20.5,20.3S36-17.5,47.4-17.5S67.9-26.5,67.9-37.8z M59.3-37.8
+	c0,6.8-5.2,12.2-11.9,12.2S35.6-31,35.6-37.8s5.2-12.2,11.9-12.2S59.3-44.6,59.3-37.8z"/>
+<path class="st0" d="M111-48c-3.2-6.3-9.8-10.1-17.7-10.1c-11.3,0-20.5,9.1-20.5,20.3s9,20.3,20.4,20.3c11.2,0,19.4-8.4,19.4-19.4
+	V-40H92.3v7.1h11.4c-1.1,4.5-5.1,7.6-10.3,7.6c-6.7,0-12-5.5-12-12.4c0-6.9,5.3-12.4,11.9-12.4c4.5,0,8.2,2.1,10.1,5.9L111-48z"/>
+<path class="st0" d="M158.2-37.8c0-11.3-9.1-20.3-20.5-20.3s-20.5,9-20.5,20.3s9.1,20.3,20.5,20.3S158.2-26.5,158.2-37.8z
+	 M149.6-37.8c0,6.8-5.2,12.2-11.9,12.2s-11.9-5.4-11.9-12.2s5.2-12.2,11.9-12.2S149.6-44.6,149.6-37.8z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="52.4061" y1="119.3078" x2="75.6808" y2="198.8512">
+	<stop  offset="0" style="stop-color:#2B3582"/>
+	<stop  offset="1" style="stop-color:#150E42"/>
+</linearGradient>
+<rect x="-13.5" y="138.6" class="st1" width="155" height="41"/>
+<path class="st0" d="M34.3,89.1L5.8,74.3v-4.7l28.5-14.9v7.6l-19.5,9.5l19.5,9.6V89.1z"/>
+<path class="st0" d="M124.1,81.5l19.5-9.6l-19.5-9.5v-7.6l28.5,14.9v4.7l-28.5,14.8V81.5z"/>
+<rect x="60.9" y="80.3" style="fill:none;" width="1.6" height="96.3"/>
+<path class="st0" d="M90,55.1l-14.2,34l-7.4,0l14.4-34.2L90,55.1z"/>
+<text transform="matrix(1.0691 0 0 1 35.792 88.8174)" class="st0" style="font-family:'MyriadPro-Regular'; font-size:51.3099px;">R</text>
+<text transform="matrix(1.0691 0 0 1 91.4294 88.8174)" class="st0" style="font-family:'MyriadPro-Regular'; font-size:51.3099px;">B</text>
+</svg>
