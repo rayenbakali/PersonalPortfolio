@@ -60,10 +60,6 @@ export const Skills = () => {
                   <h5>React Js</h5>
                 </div>
                 <div className="item">
-                  <img src={seventy} alt="Angular" />
-                  <h5>Angular Js</h5>
-                </div>
-                <div className="item">
                   <img src={sixtyfive} alt="NodeJs" />
                   <h5>Node js</h5>
                 </div>
