@@ -83,11 +83,25 @@ export const Projects = () => {
                       }
                     >
                       <Tab.Pane eventKey="first">
-                        <Row>
+                        {/* <Row>
                           {projects.map((project, index) => {
                             return <ProjectCard key={index} {...project} />;
                           })}
-                        </Row>
+                        </Row> */}
+                        <p>
+                          Working on this section in progress , please visit my{" "}
+                          <strong>
+                            {" "}
+                            <a
+                              href="https://github.com/rayenbakali"
+                              style={{ color: "white" }}
+                              target="_blank"
+                            >
+                              Github
+                            </a>
+                          </strong>{" "}
+                          for my projects
+                        </p>
                       </Tab.Pane>
                       <Tab.Pane eventKey="second">
                         <p>I will be working on the project Section Soon</p>
