@@ -96,6 +96,7 @@ export const Projects = () => {
                               href="https://github.com/rayenbakali"
                               style={{ color: "white" }}
                               target="_blank"
+                              rel="noreferrer"
                             >
                               Github
                             </a>
